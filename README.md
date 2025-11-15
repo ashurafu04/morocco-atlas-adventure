@@ -1,7 +1,7 @@
 # 🏔️ Morocco Atlas Adventure
 
 A modern, multilingual tourism website built with **React + Vite**, showcasing Morocco’s guided tours, trekking expeditions, and adventure activities.
-**Deployed at: moroccoatlasadventure.com**
+[Visit the Website](https://moroccoatlasadventure.com)
 
 ## 🌍 Overview
 
@@ -256,6 +256,6 @@ VITE_HCAPTCHA_SITE_KEY
 ---
 
 # 📌 Status
-**Deployed at: moroccoatlasadventure.com**
+[Visit the Website](https://moroccoatlasadventure.com)
 **Production Ready**
 **Last Updated: 2025**
